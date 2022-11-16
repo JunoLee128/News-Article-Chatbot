@@ -1,0 +1,49 @@
+Elon Musk has gained access to the Twitter Inc. TWTR -1.02%▼ data that he said was needed to complete his $44 billion acquisition, but data scientists and specialists doubt the stream will provide the conclusive answers he seeks about the number of phony accounts on the platform.
+
+After some legal back-and-forth between the two sides, Twitter in recent weeks provided Mr. Musk with historical tweet data and access to its so-called fire hose of tweets, people familiar with the matter said. That fire hose shows the full flood of all tweets—people post hundreds of millions of times a day on the platform, according to the company—in near real time.
+
+Mr. Musk’s access to that data could smooth the way toward completing the purchase. He has said the deal wouldn’t proceed unless he could see such data to evaluate the company’s claims about how many of its users are spam or fake accounts. Twitter has long estimated that spam or fake accounts represent fewer than 5% of its monetizable daily active users, which it most recently pegged at 229 million. Mr. Musk has said he thinks the number could be closer to 20%.
+
+Elon Musk has cultivated close ties with Beijing to build Tesla’s business in China. Now that he is buying Twitter and focusing on free speech, WSJ looks at how China has used the social-media platform to promote its views, and why that’s raising concerns. Photo Illustration: Sharon Shi
+The nature of the fire hose data—both its volume and its limitations—make it hard for Mr. Musk or anyone to come up with clear findings in a short period that would prove whether or not Twitter’s own estimates of fake and spam accounts are accurate, data analysts and social-media specialists say. And any estimates could be hard to compare to those Twitter has made public, they say, because Twitter has a unique protocol for how it determines such accounts.
+
+Twitter’s fire hose is a public stream of tweets that contains such a vast amount of finite data that it isn’t practical to analyze it for spam, said Micah Schaffer, a consultant for social-media companies on trust-and-safety issues who previously worked at YouTube and Snap Inc.
+
+Making it available to Mr. Musk is “more of a shut-up-and-go-away kind of thing than a major concession,” he said. Twitter has walked Mr. Musk through its process for calculating daily monetizable users, one of the people familiar with the matter said.
+
+Mr. Musk said last month, weeks after agreeing to buy Twitter, that the acquisition was “temporarily on hold” because of concerns about fake accounts—prompting some observers speculate that he was trying to renegotiate or scuttle the deal.
+
+Earlier this month, the Tesla Inc. chief threatened to end the deal if Twitter didn’t provide all the data he had requested. In response, Twitter said it “will continue to cooperatively share information with Mr. Musk.”
+
+
+Data experts say analyzing Twitter’s fire hose of tweets will take resources including computational power, infrastructure and expertise.
+PHOTO: JEFF CHIU/ASSOCIATED PRESS
+People who have studied Twitter’s data said digesting it in a timely manner is challenging because of the volume of data received and the amount of resources needed to analyze it, namely computational power, infrastructure and expertise. Around a dozen companies have paid for access to the fire hose over the years, a person familiar with the matter said.
+
+“The average company would be drowning in the data,” said Rahul Telang, a professor of information systems at Carnegie Mellon University’s Heinz College. Mr. Musk hasn’t said how he will carry out his analysis, though as the world’s richest person, he has the resources to hire enough data analysts to get the job done within about a month’s time, he said.
+
+With Twitter’s fire hose, Mr. Musk would be able to find some instances of behavior that might point toward fake or spam accounts, such as when an account posts more tweets than a human possibly could over a short period, said Tamer Hassan, chief executive of Human Security Inc., which specializes in preventing bot attacks and online fraud. But such findings could also include automated tweets that disseminate useful or entertaining information, he added, such as weather alerts or photos of cute animals. It could also miss sophisticated, humanlike bot behavior, he said.
+
+PHOTOS: How Elon Musk Made the Fortune He’ll Need to Buy Twitter
+VIEW PHOTOS
+PHOTO: PAUL SAKUMA/ASSOCIATED PRESS
+At the same time, Twitter’s fire hose doesn’t include certain information that could help confirm if specific accounts are individual humans—such as their IP addresses, phone numbers and other private data.
+
+If Mr. Musk comes up with his own estimate of spam accounts, it likely wouldn’t be an apples-to-apples comparison with Twitter’s own estimate. Twitter has said its number is based on multiple human reviews of thousands of accounts sampled at random, coupled with user data that it doesn’t disclose.
+
+Mr. Musk “would have to replicate their process somehow to credibly dispute their behavior,” said Mr. Schaffer, the social-media consultant.
+
+The limitations to the fire hose data could meaningfully affect how percentages of users are calculated. The fire hose doesn’t provide data on users who log onto the platform to read tweets but don’t themselves post—likely a significant share of the platform’s users, said John Kelly, CEO of social-media analytics firm Graphika Inc. That means it can’t be used to estimate the total against which to compare any estimated number of fake accounts.
+
+“It’s insufficient for assessing the proportion of the platforms’ monetizable daily users that aren’t human,” he said.
+
+SHARE YOUR THOUGHTS
+Do you think Elon Musk’s deal to buy Twitter will be completed? Why or why not? Join the conversation below.
+
+Twitter and Mr. Musk also would need to agree on what constitutes a fake or spam account, said J. Nathan Matias, an assistant professor of communication at Cornell University who researches social media and other tech platforms. There is no universal definition of those terms and companies typically don’t share their definitions because that information could be used to circumvent safeguards, he said.
+
+“If Musk and his team decide they want to find results different from Twitter, it will be very easy for them to do so,” Mr. Matias said. “But any number of others might dispute Musk and his teams’ definitions as well, because there is no standard.”
+
+Because of the amount of data and the various ways it can be sliced, a divergence in bot figures between Mr. Musk and Twitter wouldn’t be unusual or surprising, data specialists said, but it may not be enough to change the course of the deal or its terms.
+
+“It’s going to be very hard to get the level of assurance that would allow Mr. Musk to establish a defensible position to take a different action,” said Carey O’Connor Kolaja, CEO of identity-verification company Au10Tix Ltd.
